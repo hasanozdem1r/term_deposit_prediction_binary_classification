@@ -1,3 +1,5 @@
+
+![Picture](https://blog.vimarketingandbranding.com/hs-fs/hubfs/iStock_000032568274Large-422859-edited.jpg?width=1000&name=iStock_000032568274Large-422859-edited.jpg)
 # Prediction of Term Deposit | Binary Classification
 
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
