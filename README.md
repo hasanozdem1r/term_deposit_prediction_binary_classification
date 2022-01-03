@@ -12,7 +12,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install project
 ```bash
 git clone https://github.com/hasanozdem1r/Prediction-of-Term-Deposit
 ```
-
+Google Colab [ipynb file](https://drive.google.com/file/d/1KHrzm_nkW6yuFwqF-xKzJ_-hufmIanjA/view?usp=sharing)
 ## Dataset Details
 
 Please feel free to check official dataset link :  [Bank Marketing Dataset](https://www.kaggle.com/henriqueyamahata/bank-marketing)
